@@ -9,13 +9,13 @@ Maintained by: @tcostam
 </div>
 <br/>
 
-# Awesome Command and Control
+# Awesome Command & Control
 
-Awesome Command &amp; Control tools
+A collection of awesome Command &amp; Control (C2) frameworks, tools and resources for post-exploitation and red teaming assessments.
 
 If you'd like to __contribute__ to this list, simply open a PR with your additions.
 
-Maintained by [@tcostam](https://twitter.com/tcostam). If you have contributions but don't have the time, give me a shout at twitter
+Maintained by [@tcostam](https://twitter.com/tcostam). If you have contributions but don't have the time, give me a shout at twitter.
 
 Table of Contents
 =================

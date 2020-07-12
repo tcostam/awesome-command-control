@@ -32,13 +32,13 @@ Table of Contents
 
 ### Open Source
 
-* [Apfell](https://github.com/its-a-feature/Apfell)
-* [AsyncRat C#](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp)
-* [Baby Shark](https://github.com/UnkL4b/BabyShark)
-* [C3](https://github.com/FSecureLABS/C3)
-* [Caldera](https://github.com/mitre/caldera)
-* [CHAOS](https://github.com/tiagorlampert/CHAOS)
-* [Dali](https://github.com/h0mbre/Dali)
+* [Apfell](https://github.com/its-a-feature/Apfell): cross-platform, post-exploit, red teaming framework built with python3, docker, docker-compose, and a web browser UI.
+* [AsyncRat C#](https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp): Remote Access Tool designed to remotely monitor and control other computers through a secure encrypted connection.
+* [Baby Shark](https://github.com/UnkL4b/BabyShark): basic C2 generic server written in Python and Flask.
+* [C3](https://github.com/FSecureLABS/C3): framework that extends other red team tooling, such as the commercial Cobalt Strike (CS) product via ExternalC2, which is supported at release.
+* [Caldera](https://github.com/mitre/caldera): built on the MITRE ATT&CK™ framework and an active research project at MITRE.
+* [CHAOS](https://github.com/tiagorlampert/CHAOS): PoC that allow payloads generation and control remote operating systems
+* [Dali](https://github.com/h0mbre/Dali): image-based C2 channel which utilizes Imgur to host images and task agents.
 * [Empire](https://github.com/BC-SECURITY/Empire): post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent
 * [Covenant](https://github.com/cobbr/Covenant): .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.
 * [Silent Trinity](https://github.com/byt3bl33d3r/SILENTTRINITY): post-exploitation agent powered by Python, IronPython, C#/.NET.

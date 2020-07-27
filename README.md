@@ -107,3 +107,4 @@ Table of Contents
 ## Videos
 
 * [RedViper](https://www.youtube.com/watch?v=rk4EMhq30-M)
+* [Command & Control tools course](https://www.youtube.com/watch?v=bUqu8fh7xUg), in Pt-Br language.

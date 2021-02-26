@@ -108,3 +108,4 @@ Table of Contents
 
 * [RedViper](https://www.youtube.com/watch?v=rk4EMhq30-M)
 * [Command & Control tools course](https://www.youtube.com/watch?v=bUqu8fh7xUg), in Pt-Br language.
+* [How Hackers Use Discord To Control Victim PC’s](https://www.youtube.com/watch?v=_OXyb_Oxmjg)

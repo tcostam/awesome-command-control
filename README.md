@@ -39,6 +39,7 @@ Table of Contents
 * [Baby Shark](https://github.com/UnkL4b/BabyShark): basic C2 generic server written in Python and Flask.
 * [C3](https://github.com/FSecureLABS/C3): framework that extends other red team tooling, such as the commercial Cobalt Strike (CS) product via ExternalC2, which is supported at release.
 * [Caldera](https://github.com/mitre/caldera): built on the MITRE ATT&CK™ framework and an active research project at MITRE.
+* [Havoc](https://github.com/HavocFramework/Havoc): is a modern, malleable post-exploitation command and control framework made for penetration testers, red teams, and blue teams. 
 * [CHAOS](https://github.com/tiagorlampert/CHAOS): PoC that allow payloads generation and control remote operating systems
 * [Dali](https://github.com/h0mbre/Dali): image-based C2 channel which utilizes Imgur to host images and task agents.
 * [Empire](https://github.com/BC-SECURITY/Empire): post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent

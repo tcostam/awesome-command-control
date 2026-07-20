@@ -66,6 +66,7 @@ Table of Contents
 * [SK8PARK/RAT](https://github.com/slyd0g/SK8PARK)
 * [Throwback](https://github.com/silentbreaksec/Throwback)
 * [Trevor C2](https://github.com/trustedsec/trevorc2): legitimate website (browsable) that tunnels client/server communications for covert command execution.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) : Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating 80+ offensive tools as an MCP host with proof of exploitation and a local privacy gateway (the LLM never sees real IPs or credentials).
 * [Metasploit Framework](https://github.com/rapid7/metasploit-framework): computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development
 * [Meterpreter](https://github.com/r00t-3xp10it/meterpeter)
 * [Pupy](https://github.com/n1nj4sec/pupy): opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python.

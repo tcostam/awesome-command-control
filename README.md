@@ -89,6 +89,7 @@ Table of Contents
 * [Cobalt Strike](https://www.cobaltstrike.com/): software for Adversary Simulations and Red Team Operations.
 * [Red Team Toolkit (or Slingshot)](https://silentbreaksecurity.com/red-team-toolkit/slingshot/)
 * [Voodoo](https://www.voodooops.com/)
+* [Control Pack](https://www.exploitpack.com/products/control-pack): multi-agent user-mode C2 with remote tasking, interactive access, post-exploitation, and SOCKS5 reverse tunneling.
 
 ## Online Resources
 

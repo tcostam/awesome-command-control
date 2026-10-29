@@ -89,6 +89,7 @@ Table of Contents
 * [Cobalt Strike](https://www.cobaltstrike.com/): software for Adversary Simulations and Red Team Operations.
 * [Red Team Toolkit (or Slingshot)](https://silentbreaksecurity.com/red-team-toolkit/slingshot/)
 * [Voodoo](https://www.voodooops.com/)
+* [Kernel Pack](https://www.exploitpack.com/products/kernel-pack): Windows C2 with an integrated kernel agent and exploit backends for kernel-level operations.
 
 ## Online Resources
 
